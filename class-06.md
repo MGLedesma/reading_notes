@@ -3,10 +3,9 @@
 Resources:
 [What is Event Viewer and How to Use it in Windows 10](https://www.faqforge.com/windows/windows-10/what-is-event-viewer-and-how-to-use-it-in-windows-10/)
 
-    Event Viewer shows the detailed analysis of all the working applications. It also provide a list of all the errors events that occured. It also helps determine the root cause of a problem.
+Event Viewer shows the detailed analysis of all the working applications. It also provide a list of all the errors events that occured. It also helps determine the root cause of a problem.
     
-
-Application Log
+Application Log 
 - record events that are related to the interface and other components that are necessary for an application to run.
     1. Information Log - normal activity of an application
     2. Error event - occurance of an error while running an application
