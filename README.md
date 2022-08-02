@@ -1,4 +1,6 @@
-# reading_notes     
+# Table of Contents  
 
-A collection of my reading notes form Code Fellows CyberOps.
+- [Class 06 Reading Notes](Ops/reading_notes/class-06.md)
+
+
 
