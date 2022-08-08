@@ -1,7 +1,7 @@
 # Windows Registry 
 
 Resources:
-[Windows Registry Demystified: What You Can Do With It](chrome-distiller://ebfd85fd-fc85-4eab-b0da-e06abb81341c_9c95016b8450dc9783594241d058a2e9004d725a3a7659b87c01b5f01b0bdfbc/?title=Windows+Registry+Demystified%3A+What+You+Can+Do+With+It&time=1497124&url=https%3A%2F%2Fwww.howtogeek.com%2F370022%2Fwindows-registry-demystified-what-you-can-do-with-it%2F)
+[Windows Registry Demystified: What You Can Do With It](https://www.howtogeek.com/370022/windows-registry-demystified-what-you-can-do-with-it/)
 
 What is Windows Registry?
 - Windows collection of several database of program configurations and setting.
